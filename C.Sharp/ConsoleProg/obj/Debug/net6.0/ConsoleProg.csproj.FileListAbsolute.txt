@@ -1,0 +1,15 @@
+D:\Patika\C.Sharp\ConsoleProg\bin\Debug\net6.0\ConsoleProg.exe
+D:\Patika\C.Sharp\ConsoleProg\bin\Debug\net6.0\ConsoleProg.deps.json
+D:\Patika\C.Sharp\ConsoleProg\bin\Debug\net6.0\ConsoleProg.runtimeconfig.json
+D:\Patika\C.Sharp\ConsoleProg\bin\Debug\net6.0\ConsoleProg.dll
+D:\Patika\C.Sharp\ConsoleProg\bin\Debug\net6.0\ConsoleProg.pdb
+D:\Patika\C.Sharp\ConsoleProg\obj\Debug\net6.0\ConsoleProg.csproj.AssemblyReference.cache
+D:\Patika\C.Sharp\ConsoleProg\obj\Debug\net6.0\ConsoleProg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C.Sharp\ConsoleProg\obj\Debug\net6.0\ConsoleProg.AssemblyInfoInputs.cache
+D:\Patika\C.Sharp\ConsoleProg\obj\Debug\net6.0\ConsoleProg.AssemblyInfo.cs
+D:\Patika\C.Sharp\ConsoleProg\obj\Debug\net6.0\ConsoleProg.csproj.CoreCompileInputs.cache
+D:\Patika\C.Sharp\ConsoleProg\obj\Debug\net6.0\ConsoleProg.dll
+D:\Patika\C.Sharp\ConsoleProg\obj\Debug\net6.0\refint\ConsoleProg.dll
+D:\Patika\C.Sharp\ConsoleProg\obj\Debug\net6.0\ConsoleProg.pdb
+D:\Patika\C.Sharp\ConsoleProg\obj\Debug\net6.0\ConsoleProg.genruntimeconfig.cache
+D:\Patika\C.Sharp\ConsoleProg\obj\Debug\net6.0\ref\ConsoleProg.dll

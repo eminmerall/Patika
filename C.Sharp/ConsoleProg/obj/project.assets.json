@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Patika\\C.Sharp\\console\\console.csproj",
-      "projectName": "console",
-      "projectPath": "D:\\Patika\\C.Sharp\\console\\console.csproj",
+      "projectUniqueName": "D:\\Patika\\C.Sharp\\ConsoleProg\\ConsoleProg.csproj",
+      "projectName": "ConsoleProg",
+      "projectPath": "D:\\Patika\\C.Sharp\\ConsoleProg\\ConsoleProg.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Patika\\C.Sharp\\console\\obj\\",
+      "outputPath": "D:\\Patika\\C.Sharp\\ConsoleProg\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
