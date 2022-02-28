@@ -1,0 +1,16 @@
+D:\Patika\C#.Egitim\if-elseIf\bin\Debug\net5.0\if-elseIf.exe
+D:\Patika\C#.Egitim\if-elseIf\bin\Debug\net5.0\if-elseIf.deps.json
+D:\Patika\C#.Egitim\if-elseIf\bin\Debug\net5.0\if-elseIf.runtimeconfig.json
+D:\Patika\C#.Egitim\if-elseIf\bin\Debug\net5.0\if-elseIf.runtimeconfig.dev.json
+D:\Patika\C#.Egitim\if-elseIf\bin\Debug\net5.0\if-elseIf.dll
+D:\Patika\C#.Egitim\if-elseIf\bin\Debug\net5.0\ref\if-elseIf.dll
+D:\Patika\C#.Egitim\if-elseIf\bin\Debug\net5.0\if-elseIf.pdb
+D:\Patika\C#.Egitim\if-elseIf\obj\Debug\net5.0\if-elseIf.csproj.AssemblyReference.cache
+D:\Patika\C#.Egitim\if-elseIf\obj\Debug\net5.0\if-elseIf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#.Egitim\if-elseIf\obj\Debug\net5.0\if-elseIf.AssemblyInfoInputs.cache
+D:\Patika\C#.Egitim\if-elseIf\obj\Debug\net5.0\if-elseIf.AssemblyInfo.cs
+D:\Patika\C#.Egitim\if-elseIf\obj\Debug\net5.0\if-elseIf.csproj.CoreCompileInputs.cache
+D:\Patika\C#.Egitim\if-elseIf\obj\Debug\net5.0\if-elseIf.dll
+D:\Patika\C#.Egitim\if-elseIf\obj\Debug\net5.0\ref\if-elseIf.dll
+D:\Patika\C#.Egitim\if-elseIf\obj\Debug\net5.0\if-elseIf.pdb
+D:\Patika\C#.Egitim\if-elseIf\obj\Debug\net5.0\if-elseIf.genruntimeconfig.cache
