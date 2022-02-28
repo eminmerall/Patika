@@ -1,0 +1,16 @@
+D:\Patika\C#.Egitim\Switch-Case\bin\Debug\net5.0\Switch-Case.exe
+D:\Patika\C#.Egitim\Switch-Case\bin\Debug\net5.0\Switch-Case.deps.json
+D:\Patika\C#.Egitim\Switch-Case\bin\Debug\net5.0\Switch-Case.runtimeconfig.json
+D:\Patika\C#.Egitim\Switch-Case\bin\Debug\net5.0\Switch-Case.runtimeconfig.dev.json
+D:\Patika\C#.Egitim\Switch-Case\bin\Debug\net5.0\Switch-Case.dll
+D:\Patika\C#.Egitim\Switch-Case\bin\Debug\net5.0\ref\Switch-Case.dll
+D:\Patika\C#.Egitim\Switch-Case\bin\Debug\net5.0\Switch-Case.pdb
+D:\Patika\C#.Egitim\Switch-Case\obj\Debug\net5.0\Switch-Case.csproj.AssemblyReference.cache
+D:\Patika\C#.Egitim\Switch-Case\obj\Debug\net5.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#.Egitim\Switch-Case\obj\Debug\net5.0\Switch-Case.AssemblyInfoInputs.cache
+D:\Patika\C#.Egitim\Switch-Case\obj\Debug\net5.0\Switch-Case.AssemblyInfo.cs
+D:\Patika\C#.Egitim\Switch-Case\obj\Debug\net5.0\Switch-Case.csproj.CoreCompileInputs.cache
+D:\Patika\C#.Egitim\Switch-Case\obj\Debug\net5.0\Switch-Case.dll
+D:\Patika\C#.Egitim\Switch-Case\obj\Debug\net5.0\ref\Switch-Case.dll
+D:\Patika\C#.Egitim\Switch-Case\obj\Debug\net5.0\Switch-Case.pdb
+D:\Patika\C#.Egitim\Switch-Case\obj\Debug\net5.0\Switch-Case.genruntimeconfig.cache
