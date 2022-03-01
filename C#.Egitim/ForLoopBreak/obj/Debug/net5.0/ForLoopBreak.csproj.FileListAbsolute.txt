@@ -1,0 +1,16 @@
+D:\Patika\C#.Egitim\ForLoopBreak\bin\Debug\net5.0\ForLoopBreak.exe
+D:\Patika\C#.Egitim\ForLoopBreak\bin\Debug\net5.0\ForLoopBreak.deps.json
+D:\Patika\C#.Egitim\ForLoopBreak\bin\Debug\net5.0\ForLoopBreak.runtimeconfig.json
+D:\Patika\C#.Egitim\ForLoopBreak\bin\Debug\net5.0\ForLoopBreak.runtimeconfig.dev.json
+D:\Patika\C#.Egitim\ForLoopBreak\bin\Debug\net5.0\ForLoopBreak.dll
+D:\Patika\C#.Egitim\ForLoopBreak\bin\Debug\net5.0\ref\ForLoopBreak.dll
+D:\Patika\C#.Egitim\ForLoopBreak\bin\Debug\net5.0\ForLoopBreak.pdb
+D:\Patika\C#.Egitim\ForLoopBreak\obj\Debug\net5.0\ForLoopBreak.csproj.AssemblyReference.cache
+D:\Patika\C#.Egitim\ForLoopBreak\obj\Debug\net5.0\ForLoopBreak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#.Egitim\ForLoopBreak\obj\Debug\net5.0\ForLoopBreak.AssemblyInfoInputs.cache
+D:\Patika\C#.Egitim\ForLoopBreak\obj\Debug\net5.0\ForLoopBreak.AssemblyInfo.cs
+D:\Patika\C#.Egitim\ForLoopBreak\obj\Debug\net5.0\ForLoopBreak.csproj.CoreCompileInputs.cache
+D:\Patika\C#.Egitim\ForLoopBreak\obj\Debug\net5.0\ForLoopBreak.dll
+D:\Patika\C#.Egitim\ForLoopBreak\obj\Debug\net5.0\ref\ForLoopBreak.dll
+D:\Patika\C#.Egitim\ForLoopBreak\obj\Debug\net5.0\ForLoopBreak.pdb
+D:\Patika\C#.Egitim\ForLoopBreak\obj\Debug\net5.0\ForLoopBreak.genruntimeconfig.cache
