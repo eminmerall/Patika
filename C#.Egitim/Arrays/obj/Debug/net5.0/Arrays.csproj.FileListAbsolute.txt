@@ -1,0 +1,16 @@
+D:\Patika\C#.Egitim\Arrays\bin\Debug\net5.0\Arrays.exe
+D:\Patika\C#.Egitim\Arrays\bin\Debug\net5.0\Arrays.deps.json
+D:\Patika\C#.Egitim\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+D:\Patika\C#.Egitim\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+D:\Patika\C#.Egitim\Arrays\bin\Debug\net5.0\Arrays.dll
+D:\Patika\C#.Egitim\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+D:\Patika\C#.Egitim\Arrays\bin\Debug\net5.0\Arrays.pdb
+D:\Patika\C#.Egitim\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+D:\Patika\C#.Egitim\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#.Egitim\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+D:\Patika\C#.Egitim\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+D:\Patika\C#.Egitim\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Patika\C#.Egitim\Arrays\obj\Debug\net5.0\Arrays.dll
+D:\Patika\C#.Egitim\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+D:\Patika\C#.Egitim\Arrays\obj\Debug\net5.0\Arrays.pdb
+D:\Patika\C#.Egitim\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
