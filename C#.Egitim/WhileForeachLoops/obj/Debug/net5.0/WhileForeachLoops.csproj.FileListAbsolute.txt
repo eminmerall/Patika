@@ -1,0 +1,16 @@
+D:\Patika\C#.Egitim\WhileForeachLoops\bin\Debug\net5.0\WhileForeachLoops.exe
+D:\Patika\C#.Egitim\WhileForeachLoops\bin\Debug\net5.0\WhileForeachLoops.deps.json
+D:\Patika\C#.Egitim\WhileForeachLoops\bin\Debug\net5.0\WhileForeachLoops.runtimeconfig.json
+D:\Patika\C#.Egitim\WhileForeachLoops\bin\Debug\net5.0\WhileForeachLoops.runtimeconfig.dev.json
+D:\Patika\C#.Egitim\WhileForeachLoops\bin\Debug\net5.0\WhileForeachLoops.dll
+D:\Patika\C#.Egitim\WhileForeachLoops\bin\Debug\net5.0\ref\WhileForeachLoops.dll
+D:\Patika\C#.Egitim\WhileForeachLoops\bin\Debug\net5.0\WhileForeachLoops.pdb
+D:\Patika\C#.Egitim\WhileForeachLoops\obj\Debug\net5.0\WhileForeachLoops.csproj.AssemblyReference.cache
+D:\Patika\C#.Egitim\WhileForeachLoops\obj\Debug\net5.0\WhileForeachLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#.Egitim\WhileForeachLoops\obj\Debug\net5.0\WhileForeachLoops.AssemblyInfoInputs.cache
+D:\Patika\C#.Egitim\WhileForeachLoops\obj\Debug\net5.0\WhileForeachLoops.AssemblyInfo.cs
+D:\Patika\C#.Egitim\WhileForeachLoops\obj\Debug\net5.0\WhileForeachLoops.csproj.CoreCompileInputs.cache
+D:\Patika\C#.Egitim\WhileForeachLoops\obj\Debug\net5.0\WhileForeachLoops.dll
+D:\Patika\C#.Egitim\WhileForeachLoops\obj\Debug\net5.0\ref\WhileForeachLoops.dll
+D:\Patika\C#.Egitim\WhileForeachLoops\obj\Debug\net5.0\WhileForeachLoops.pdb
+D:\Patika\C#.Egitim\WhileForeachLoops\obj\Debug\net5.0\WhileForeachLoops.genruntimeconfig.cache
