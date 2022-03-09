@@ -49,6 +49,34 @@ namespace odev1
            }
             Console.ReadLine();
             */
+           /* // n uzunluktaki diziyi tersten yazdırma
+           Console.WriteLine("Dizinin Uzunluğu: ");
+           int n = Convert.ToInt32(Console.ReadLine());
+           string[] ar = new string[n];
+
+           for(int i=0; i<n; i++)
+           {
+               Console.WriteLine("Dizinin "+i+". elemanı");
+               ar[i] = Console.ReadLine();
+           }
+           for(int i = n ; i>0 ; i--)
+           {
+               Console.Write(ar[i-1]+" ");
+           }
+           Console.ReadLine();*/
+
+           //Girilen cümledeki kelime ve harf sayısını bulma
+           Console.WriteLine("Sayılacak Cümle: ");
+           string kelimeler = Console.ReadLine();
+           string harfler = kelimeler;
+           Console.WriteLine("----------");
+
+           string[] kelime  = kelimeler.Split(" ");
+
+           Console.WriteLine("Kelime Sayısı:"+kelime.Length);
+           Console.WriteLine("----");
+           Console.WriteLine("Harf Sayısı:"+harfler.Length);
+           Console.ReadLine();
         }
     }
 }
