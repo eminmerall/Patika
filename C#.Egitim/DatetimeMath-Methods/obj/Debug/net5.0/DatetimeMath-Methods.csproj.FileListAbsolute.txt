@@ -1,0 +1,16 @@
+D:\Patika\C#.Egitim\DatetimeMath-Methods\bin\Debug\net5.0\DatetimeMath-Methods.exe
+D:\Patika\C#.Egitim\DatetimeMath-Methods\bin\Debug\net5.0\DatetimeMath-Methods.deps.json
+D:\Patika\C#.Egitim\DatetimeMath-Methods\bin\Debug\net5.0\DatetimeMath-Methods.runtimeconfig.json
+D:\Patika\C#.Egitim\DatetimeMath-Methods\bin\Debug\net5.0\DatetimeMath-Methods.runtimeconfig.dev.json
+D:\Patika\C#.Egitim\DatetimeMath-Methods\bin\Debug\net5.0\DatetimeMath-Methods.dll
+D:\Patika\C#.Egitim\DatetimeMath-Methods\bin\Debug\net5.0\ref\DatetimeMath-Methods.dll
+D:\Patika\C#.Egitim\DatetimeMath-Methods\bin\Debug\net5.0\DatetimeMath-Methods.pdb
+D:\Patika\C#.Egitim\DatetimeMath-Methods\obj\Debug\net5.0\DatetimeMath-Methods.csproj.AssemblyReference.cache
+D:\Patika\C#.Egitim\DatetimeMath-Methods\obj\Debug\net5.0\DatetimeMath-Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#.Egitim\DatetimeMath-Methods\obj\Debug\net5.0\DatetimeMath-Methods.AssemblyInfoInputs.cache
+D:\Patika\C#.Egitim\DatetimeMath-Methods\obj\Debug\net5.0\DatetimeMath-Methods.AssemblyInfo.cs
+D:\Patika\C#.Egitim\DatetimeMath-Methods\obj\Debug\net5.0\DatetimeMath-Methods.csproj.CoreCompileInputs.cache
+D:\Patika\C#.Egitim\DatetimeMath-Methods\obj\Debug\net5.0\DatetimeMath-Methods.dll
+D:\Patika\C#.Egitim\DatetimeMath-Methods\obj\Debug\net5.0\ref\DatetimeMath-Methods.dll
+D:\Patika\C#.Egitim\DatetimeMath-Methods\obj\Debug\net5.0\DatetimeMath-Methods.pdb
+D:\Patika\C#.Egitim\DatetimeMath-Methods\obj\Debug\net5.0\DatetimeMath-Methods.genruntimeconfig.cache
