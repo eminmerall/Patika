@@ -1,0 +1,16 @@
+D:\Patika\C#.Egitim\GenericList\bin\Debug\net5.0\GenericList.exe
+D:\Patika\C#.Egitim\GenericList\bin\Debug\net5.0\GenericList.deps.json
+D:\Patika\C#.Egitim\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.json
+D:\Patika\C#.Egitim\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.dev.json
+D:\Patika\C#.Egitim\GenericList\bin\Debug\net5.0\GenericList.dll
+D:\Patika\C#.Egitim\GenericList\bin\Debug\net5.0\ref\GenericList.dll
+D:\Patika\C#.Egitim\GenericList\bin\Debug\net5.0\GenericList.pdb
+D:\Patika\C#.Egitim\GenericList\obj\Debug\net5.0\GenericList.csproj.AssemblyReference.cache
+D:\Patika\C#.Egitim\GenericList\obj\Debug\net5.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#.Egitim\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfoInputs.cache
+D:\Patika\C#.Egitim\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfo.cs
+D:\Patika\C#.Egitim\GenericList\obj\Debug\net5.0\GenericList.csproj.CoreCompileInputs.cache
+D:\Patika\C#.Egitim\GenericList\obj\Debug\net5.0\GenericList.dll
+D:\Patika\C#.Egitim\GenericList\obj\Debug\net5.0\ref\GenericList.dll
+D:\Patika\C#.Egitim\GenericList\obj\Debug\net5.0\GenericList.pdb
+D:\Patika\C#.Egitim\GenericList\obj\Debug\net5.0\GenericList.genruntimeconfig.cache
