@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Patika\\C#.Egitim\\ArrayList\\ArrayList.csproj": {}
+    "D:\\Patika\\C#.Egitim\\Collections\\ArrayList\\ArrayList.csproj": {}
   },
   "projects": {
-    "D:\\Patika\\C#.Egitim\\ArrayList\\ArrayList.csproj": {
+    "D:\\Patika\\C#.Egitim\\Collections\\ArrayList\\ArrayList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Patika\\C#.Egitim\\ArrayList\\ArrayList.csproj",
+        "projectUniqueName": "D:\\Patika\\C#.Egitim\\Collections\\ArrayList\\ArrayList.csproj",
         "projectName": "ArrayList",
-        "projectPath": "D:\\Patika\\C#.Egitim\\ArrayList\\ArrayList.csproj",
+        "projectPath": "D:\\Patika\\C#.Egitim\\Collections\\ArrayList\\ArrayList.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\Patika\\C#.Egitim\\ArrayList\\obj\\",
+        "outputPath": "D:\\Patika\\C#.Egitim\\Collections\\ArrayList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
