@@ -10,7 +10,7 @@ namespace Koleksiyonlar_Soru_2
         {
             ArrayList liste = new ArrayList();
 
-            for (int i = 0; i < 5;)
+            for (int i = 0; i < 20;)
             {
                 Console.Write("{0}.pozitif sayı :", i+1);
 
@@ -27,45 +27,51 @@ namespace Koleksiyonlar_Soru_2
             }
             Console.Clear();
             Console.WriteLine("Dizinin Elemanları:");
-            Console.WriteLine("----");
             foreach (var item in liste)
             {
                 Console.Write(item+", ");
             }
             Console.WriteLine(" ");
-            Console.WriteLine("------------");
+            Console.WriteLine("----------------");
             Console.WriteLine(" ");
 
 
             Console.WriteLine("Küçükten Büyüğe;");
-            Console.WriteLine("----");
-            liste.Sort();
-            Console.WriteLine("Tam: ");
+
+            liste.Sort();         
+            foreach (var item in liste)
+            {
+                Console.Write(item+", ");
+            }
+            var ort = 0;
+
+            Console.WriteLine(" ");
             
-            foreach (var item in liste)
+            for (int i = 0; i < 3; i++)
             {
-                Console.Write(item+", ");
+                Console.Write(liste[i]+", ");
+                ort += Convert.ToInt32(liste[i]) ;
             }
-
-
             Console.WriteLine(" ");
-            Console.WriteLine("------------");
+            Console.WriteLine("(" + liste[0] + "+" + liste[1] + "+" + liste[2]+ ")" +"/3" + " = " + ort/3);
             Console.WriteLine(" ");
-
-
+            Console.WriteLine("----------------");
             Console.WriteLine("Büyükten Küçüğe;");
-            Console.WriteLine("----");
             liste.Reverse();
-            Console.WriteLine("Tam: ");
 
             foreach (var item in liste)
             {
                 Console.Write(item+", ");
             }
 
-
             Console.WriteLine(" ");
-            Console.WriteLine("------------"); 
+            for (int i = 0; i < 3; i++)
+            {
+                Console.Write(liste[i]+", ");
+                ort += Convert.ToInt32(liste[i]) ;
+            }
+            Console.WriteLine(" ");
+            Console.WriteLine("(" + liste[0] + "+" + liste[1] + "+" + liste[2]+ ")" +"/3" + " = " + ort/3);
 
             Console.ReadLine();    
         }
