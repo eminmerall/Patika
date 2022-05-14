@@ -19,7 +19,7 @@ namespace class4
 
             
             Console.WriteLine("Toplama İşleminin sonucu: {0}",Islemler.Topla(100,200)); //Statik sınıfların nesnelerine böyle ulaşılır.
-            Console.WriteLine("Çıkarma İşleminin sonucu: {0}",Islemler.Cikar(400,200));
+            Console.WriteLine("Çıkarma İşleminin sonucu: {0}",Islemler.Cikar(400,200)); //Statik sınıflarda kalıtım olmaz
 
 
 
