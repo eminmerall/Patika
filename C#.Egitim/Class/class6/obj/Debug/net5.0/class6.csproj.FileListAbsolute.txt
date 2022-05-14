@@ -1,0 +1,16 @@
+D:\Patika\C#.Egitim\Class\class6\bin\Debug\net5.0\class6.exe
+D:\Patika\C#.Egitim\Class\class6\bin\Debug\net5.0\class6.deps.json
+D:\Patika\C#.Egitim\Class\class6\bin\Debug\net5.0\class6.runtimeconfig.json
+D:\Patika\C#.Egitim\Class\class6\bin\Debug\net5.0\class6.runtimeconfig.dev.json
+D:\Patika\C#.Egitim\Class\class6\bin\Debug\net5.0\class6.dll
+D:\Patika\C#.Egitim\Class\class6\bin\Debug\net5.0\ref\class6.dll
+D:\Patika\C#.Egitim\Class\class6\bin\Debug\net5.0\class6.pdb
+D:\Patika\C#.Egitim\Class\class6\obj\Debug\net5.0\class6.csproj.AssemblyReference.cache
+D:\Patika\C#.Egitim\Class\class6\obj\Debug\net5.0\class6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#.Egitim\Class\class6\obj\Debug\net5.0\class6.AssemblyInfoInputs.cache
+D:\Patika\C#.Egitim\Class\class6\obj\Debug\net5.0\class6.AssemblyInfo.cs
+D:\Patika\C#.Egitim\Class\class6\obj\Debug\net5.0\class6.csproj.CoreCompileInputs.cache
+D:\Patika\C#.Egitim\Class\class6\obj\Debug\net5.0\class6.dll
+D:\Patika\C#.Egitim\Class\class6\obj\Debug\net5.0\ref\class6.dll
+D:\Patika\C#.Egitim\Class\class6\obj\Debug\net5.0\class6.pdb
+D:\Patika\C#.Egitim\Class\class6\obj\Debug\net5.0\class6.genruntimeconfig.cache
