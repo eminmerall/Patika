@@ -1,0 +1,16 @@
+D:\Patika\C#.Egitim\OOP\Inheritance\bin\Debug\net5.0\Inheritance.exe
+D:\Patika\C#.Egitim\OOP\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+D:\Patika\C#.Egitim\OOP\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+D:\Patika\C#.Egitim\OOP\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+D:\Patika\C#.Egitim\OOP\Inheritance\bin\Debug\net5.0\Inheritance.dll
+D:\Patika\C#.Egitim\OOP\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+D:\Patika\C#.Egitim\OOP\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+D:\Patika\C#.Egitim\OOP\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+D:\Patika\C#.Egitim\OOP\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#.Egitim\OOP\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+D:\Patika\C#.Egitim\OOP\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+D:\Patika\C#.Egitim\OOP\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\Patika\C#.Egitim\OOP\Inheritance\obj\Debug\net5.0\Inheritance.dll
+D:\Patika\C#.Egitim\OOP\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+D:\Patika\C#.Egitim\OOP\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+D:\Patika\C#.Egitim\OOP\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
