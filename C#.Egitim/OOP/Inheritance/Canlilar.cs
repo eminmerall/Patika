@@ -9,5 +9,9 @@ namespace Inheritance
         protected void Bosaltim(){
             Console.WriteLine("Canlılar bosaştım yapar.");
         }
+
+        public virtual void UyaranlaraTepki(){  //Polymorphism konusu
+            Console.WriteLine("Canlılar Uyaranlara Tepki Verir");
+        }
     }
 }

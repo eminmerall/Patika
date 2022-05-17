@@ -6,6 +6,12 @@ namespace Inheritance
         protected void Adaptasyon(){
             Console.WriteLine("Hayvanlar adaptasyon kurabilir");
         }
+
+        public override void UyaranlaraTepki() //Polymorphism konusu
+        {
+            base.UyaranlaraTepki();
+            Console.WriteLine("Hayvanlar temasa tepki verir");
+        }
     }
 
 
@@ -25,6 +31,7 @@ namespace Inheritance
             base.Adaptasyon();
             base.Beslenme();
             base.Bosaltim();
+            base.UyaranlaraTepki();//Polymorpsihsm
         }
         public void Ucmak(){
             Console.WriteLine("Kuşlar uçarak hareket ederler.");
