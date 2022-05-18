@@ -1,0 +1,16 @@
+D:\Patika\C#.Egitim\OOP\Interface\bin\Debug\net5.0\Interface.exe
+D:\Patika\C#.Egitim\OOP\Interface\bin\Debug\net5.0\Interface.deps.json
+D:\Patika\C#.Egitim\OOP\Interface\bin\Debug\net5.0\Interface.runtimeconfig.json
+D:\Patika\C#.Egitim\OOP\Interface\bin\Debug\net5.0\Interface.runtimeconfig.dev.json
+D:\Patika\C#.Egitim\OOP\Interface\bin\Debug\net5.0\Interface.dll
+D:\Patika\C#.Egitim\OOP\Interface\bin\Debug\net5.0\ref\Interface.dll
+D:\Patika\C#.Egitim\OOP\Interface\bin\Debug\net5.0\Interface.pdb
+D:\Patika\C#.Egitim\OOP\Interface\obj\Debug\net5.0\Interface.csproj.AssemblyReference.cache
+D:\Patika\C#.Egitim\OOP\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C#.Egitim\OOP\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
+D:\Patika\C#.Egitim\OOP\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs
+D:\Patika\C#.Egitim\OOP\Interface\obj\Debug\net5.0\Interface.csproj.CoreCompileInputs.cache
+D:\Patika\C#.Egitim\OOP\Interface\obj\Debug\net5.0\Interface.dll
+D:\Patika\C#.Egitim\OOP\Interface\obj\Debug\net5.0\ref\Interface.dll
+D:\Patika\C#.Egitim\OOP\Interface\obj\Debug\net5.0\Interface.pdb
+D:\Patika\C#.Egitim\OOP\Interface\obj\Debug\net5.0\Interface.genruntimeconfig.cache
